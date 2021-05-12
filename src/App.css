@@ -26,6 +26,14 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.app__tr {
+  display: flex;
+  justify-content: space-between;
+}
+.app__td {
+  padding: 0.4rem;
+  flex: 0.33%;
+}
 
 @media (max-width: 990px) {
   .app {
